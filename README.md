@@ -1,4 +1,4 @@
-# Pentest_Project
+# Penetration-Testing-Report
 
 Staj ön eleme sürecinde kabul görmüş ve başarılı bulunan bir pentest rapor örneği.
 
